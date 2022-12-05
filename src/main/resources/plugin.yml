@@ -1,0 +1,5 @@
+name: UtilAPI
+version: '${project.version}'
+main: net.skret.utilapi.UtilAPI
+api-version: 1.19
+authors: [ MCreeper12731 ]
